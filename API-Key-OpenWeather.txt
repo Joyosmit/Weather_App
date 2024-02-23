@@ -1,0 +1,6 @@
+d1845658f92b31c64bd94f06f7188c9c
+
+Format for API calling:
+https://api.openweathermap.org/data/2.5/weather?lat=44.34&lon=10.99&appid={API key}
+or based on place
+https://api.openweathermap.org/data/2.5/weather?q=[city-name]&appid={API key}&units=metric
